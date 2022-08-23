@@ -1,0 +1,4 @@
+Name: Sarangu S
+Email: ssarangu@iitk.ac.in
+Department: Department of Aerospace Engineering
+Thesis:- Design and analysis of Tesla Turbine and Effect of rotation on columnar vortex

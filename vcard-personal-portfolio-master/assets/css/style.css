@@ -878,7 +878,7 @@ main {
 .filter-list { display: none; }
 
 .filter-select-box {
-  position: relative;
+  position: absolute;
   margin-bottom: 25px;
 }
 
@@ -934,7 +934,7 @@ main {
 
 .project-list {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 0.5fr;
   gap: 30px;
   margin-bottom: 10px;
 }
@@ -955,15 +955,15 @@ main {
 
 .project-img {
   position: relative;
-  width: 100%;
+  width: 25%;
   height: 100px;
-  border-radius: 16px;
+  border-radius: 25px;
   overflow: hidden;
   margin-bottom: 15px;
 }
 
 .project-img::before {
-  content: "";
+  content: grid;
   position: absolute;
   top: 0;
   left: 0;
