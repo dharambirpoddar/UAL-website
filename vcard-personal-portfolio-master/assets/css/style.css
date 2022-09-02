@@ -1988,3 +1988,17 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 
+/*
+----FOOTER ----
+
+*/
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  background-color: var(--smoky-black);
+  color:var(--light-gray);
+  font-size: var(--fs-8);
+  text-align: center;
+}
