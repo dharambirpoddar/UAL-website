@@ -14,7 +14,7 @@
 *.zip
 
 #ignore the folders
-./archieve
+./archieve/
 
 #ignore images
 *.jpg
