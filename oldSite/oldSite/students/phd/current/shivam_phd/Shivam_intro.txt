@@ -1,4 +1,0 @@
-Name: Shivam Shirbhate
-Email: shivamgs21@iitk.ac.in
-Department: Department of Sustainable Energy Engineering.
-Thesis:- Vertical Axis Wind Turbine for Mars Missions
