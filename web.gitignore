@@ -15,3 +15,13 @@
 
 #ignore the folders
 ./archieve
+
+#ignore images
+*.jpg
+*.jpeg
+*.png
+*.PNG
+
+#ignore multimedia files
+*.mp4
+*.MOV
